@@ -7,4 +7,4 @@ and treasury — while shareholders anywhere in the world can buy stock and earn
 from its revenue.
 
 Built on Arbitrum. Payments via Rails.
-
+[More...](https://github.com/DuukaProtocol/.github/blob/main/README.md)
