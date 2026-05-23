@@ -8,3 +8,6 @@ from its revenue.
 
 Built on Arbitrum. Payments via Rails.
 [More...](https://github.com/DuukaProtocol/.github/blob/main/README.md)
+[Discord](https://discord.gg/D3pRXzn3xR)
+[X](https://x.com/duukaprotocol)
+[Duuka Protocol](https://duukaprotocol.vercel.app)
